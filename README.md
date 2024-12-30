@@ -1,4 +1,4 @@
-# APS1070 Project - Anomaly Detection Algorithm using Gaussian Mixture Model
+# APS1070 Project 2 - Anomaly Detection Algorithm using Gaussian Mixture Model
 -	Use of Panda: pd.concat; pd.DataFrame
 -	Use of Numpy: pd.merge; np.arange
 -	Use of matplotlib.pyplot: plt.plot; matplotlib.gridspec (bar and line plot); plt.Circle
